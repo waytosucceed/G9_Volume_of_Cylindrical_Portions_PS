@@ -1,0 +1,267 @@
+{
+  "heading": "G9_Volume of Cylindrical Portions",
+  "topics": [
+    {
+      "heading": "Volume of Cylindrical Portions",
+      "questions": [
+
+  {
+    "questionNo": 1,
+    "question": [
+      "A cylindrical greenhouse tunnel is cut perfectly in half lengthways so it can sit flat on the soil. The radius of the semi-circular entrance is 20 m, and the length of the tunnel is 30 m. Calculate the volume of this half-cylinder. Use 3.14 for π.",
+      "<br>(Note: The full width across the bottom is the diameter, 40 m)."
+    ],
+    "options": [
+      "37680 m³",
+      "18840 m³",
+      "75360 m³",
+      "9420 m³"
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/9.png"
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "A solid block of candle wax is shaped like a quarter-cylinder. The radius of the corner is 6 cm, and the block is 10 cm long. Calculate the volume of this quarter-cylinder using 3.14 for π.<br><img src='./assests/images/question/10.png' width = '30%' >",
+      "<br>The volume of the quarter-cylinder is ______ cm³."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "282.6"
+    ]
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "To find the volume of ANY cylindrical sector, you just need to find what fraction of a full circle the sector represents by dividing the internal angle by 360°. Find the exact volume of a decorative architectural pillar cut as a solid cylindrical sector with an angle of 120°, a radius of 9 cm, and a height of 20 cm. Leave your answer in terms of exact π."
+    ],
+    "options": [
+      "1620π cm³",
+      "1080π cm³",
+      "540π cm³",
+      "270π cm³"
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/11.png"
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A slice of a steel machine cog is cut as a sector with an internal angle of 45°. Its radius is 14 mm, and its height is 16 mm. Calculate the volume of this sector using the fraction ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π.",
+      "<br>The volume of the sector is ______ mm³."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "1232"
+    ]
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "A heavy metal water trough for cattle is shaped like a hollow horizontal half-cylinder. The internal radius of the trough is 50 cm, and its length is 200 cm. What is the maximum liquid capacity of the water inside the trough in Litres? Use 3.14 for π.",
+      "<br><i>(Hint: 1000 cm³ = 1 Litre).</i>"
+    ],
+    "options": [
+      "1570 L",
+      "7850 L",
+      "785 L",
+      "392.5 L"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "A horizontal half-cylinder chemical mixing vat has a radius of 20 cm and a length of 250 cm. Calculate the maximum liquid capacity of this vat in Litres. Use 3.14 for π.",
+      "<br>The capacity of the vat is ______ L."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "157"
+    ]
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "An underground railway tunnel is shaped like a perfect half-cylinder. The total volume of air inside the tunnel is exactly 1925 m³. If the radius of the tunnel is 7 m, use the fraction ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π to calculate the total length of the tunnel."
+    ],
+    "options": [
+      "25 m",
+      "50 m",
+      "12.5 m",
+      "35 m"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A slice of a large cheese wheel is shaped like a perfect cylindrical sector with an internal angle of 72°. The height of the slice is 5 cm, and its total volume is 1256 cm³. By setting up an equation, find the exact radius of the cheese slice. Use 3.14 for π.",
+      "<br>The radius of the slice is ______ cm."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "20"
+    ]
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "A custom foam packing piece for a fragile instrument is cut into a solid 90° cylindrical wedge (a quarter-cylinder). The radius of the wedge is 20 cm, and its height is 40 cm. If the foam has a mass of 0.5 grams per cubic centimetre (g/cm³), what is the total mass of this foam piece? Use 3.14 for π."
+    ],
+    "options": [
+      "12560 g",
+      "3140 g",
+      "6280 g",
+      "25120 g"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "A specialized rubber bumper component is shaped like a ", {
+        "fraction": {
+          "numerator": "3",
+          "denominator": "4"
+        }
+      }, " cylinder (an internal angle of 270°). The radius is 6 cm and the height is 20 cm. The rubber has a density of 2 grams per cubic centimetre (g/cm³). Calculate the total mass of the component. Use 3.14 for π.",
+      "<br>The mass of the component is ______ grams."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "3391.2"
+    ]
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "A custom wooden bread bin is formed by placing a half-cylinder perfectly on top of a rectangular prism. The rectangular base has a width of 30 cm, a length of 50 cm, and a height of 20 cm. The half-cylinder on top has a diameter that matches the width of the base (30 cm) and shares the same 50 cm length. Calculate the total volume of the bread bin. Use 3.14 for π.",
+      "<br>(Imagine this extending backwards by 50 cm)."
+    ],
+    "options": [
+      "47662.5 cm³",
+      "65325.0 cm³",
+      "30000.0 cm³",
+      "17662.5 cm³"
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/12.png"
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "A solid block of ice is originally a perfect cube with a side length of 20 cm. An ice sculptor removes a quarter-cylinder shape running along the entire height of one corner. The radius of this removed cut is exactly 20 cm. Find the volume of the remaining ice. Use 3.14 for π.",
+      "<br>The volume of the remaining ice is ______ cm³."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "1720"
+    ]
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "A curved concrete viaduct section is shaped like a hollow horizontal half-cylinder. The outer radius of the section is 10 m, and the hollow inner radius is 6 m. The section is 30 m long. Calculate the exact volume of concrete used to cast this section. Use 3.14 for π.",
+      "<br>(Hint: Just like hollow cylinders, find the volume of the outer half-cylinder and subtract the hollow inner half-cylinder)."
+    ],
+    "options": [
+      "4710.0 m³",
+      "1695.6 m³",
+      "3014.4 m³",
+      "6028.8 m³"
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/13.png"
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "A temporary horizontal half-cylinder water reservoir is completely full of water. The reservoir has a radius of 14 m and a length of 5 m. Engineers drain all the water from this reservoir into a completely empty rectangular permanent storage tank that is 20 m long and 11 m wide. Calculate the new depth of the water inside the rectangular tank. Use the fraction ", {
+        "fraction": {
+          "numerator": "22",
+          "denominator": "7"
+        }
+      }, " for π.",
+      "<br>The depth of the water in the rectangular tank will be ______ m."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "7"
+    ]
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "A manufacturer is comparing two packaging designs for a fancy new soap. Shape A is a 90° cylindrical wedge (a quarter-cylinder) with a radius of 6 cm and a height of 10 cm. Shape B is a standard rectangular block with a base of 6 cm by 6 cm, and a height of 10 cm. Using 3.14 for π, determine which shape contains more volume and calculate the exact difference."
+    ],
+    "options": [
+      "Shape A is larger by 77.4 cm³",
+      "Shape B is larger by 77.4 cm³",
+      "Shape A is larger by 360.0 cm³",
+      "Shape B is larger by 282.6 cm³"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 16,
+    "question": [
+      "A large slice of gourmet pie is cut as a perfect cylindrical sector with an internal angle of 45°. The radius of the pie was 8 cm, and the height of the slice is 15 cm. Find the exact volume of this pie slice. Use 3.14 for π.<br><img src='./assests/images/question/14.png' width = '30%' >",
+      "<br>The volume of the pie slice is ______ cm³."
+    ],
+    "input": [
+      ""
+    ],
+    "answer": [
+      "376.8"
+    ]
+  },
+  {
+    "questionNo": 17,
+    "question": [
+      "Four identical semi-cylindrical chocolate bars are packed flat into a rectangular cardboard box. Each half-cylinder bar has a radius of 6 cm and a length of 15 cm. They are packed perfectly side-by-side (flat side down) so that they touch edge-to-edge, and the box fits them exactly. Calculate the volume of the empty space (air) remaining inside the box. Use 3.14 for π.",
+      "<br>(Hint: First, deduce the total length, width, and height of the bounding rectangular box)."
+    ],
+    "options": [
+      "3391.2 cm³",
+      "4320.0 cm³",
+      "928.8 cm³",
+      "1857.6 cm³"
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/15.png"
+  }
+
+
+
+]
+
+
+    }
+  ]
+}
